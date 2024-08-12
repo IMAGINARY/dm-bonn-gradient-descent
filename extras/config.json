@@ -1,6 +1,6 @@
 {
   "defaultLanguage": "de",
-  "languages": ["de", "en"],
+  "languages": ["de", "en", "nl"],
   "useGamepads": true,
   "useScreenControls": false,
   "useKeyboardControls": true,
@@ -10,7 +10,7 @@
   "maxDepthTilt": 4,
   "continuousGame": false,
   "fullScreenButton": false,
-  "languageButton": false,
+  "languageButton": true,
   "debugControls": false,
   "showBotTypeTips": true,
   "showDemo": true,
